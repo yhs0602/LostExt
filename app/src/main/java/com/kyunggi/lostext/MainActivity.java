@@ -2,6 +2,7 @@ package com.kyunggi.lostext;
 
 import android.app.*;
 import android.os.*;
+import java.io.*;
 
 public class MainActivity extends Activity 
 {
@@ -10,5 +11,6 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+		new File("");
     }
 }
