@@ -1,4 +1,4 @@
-# LostExt
+# LostExt (Lost.DIR)
 Finds lost extensions in Lost.dir and automatically adds extensions to the file.
 
 **Usage**
